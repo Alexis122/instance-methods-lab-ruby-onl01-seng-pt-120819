@@ -1,3 +1,5 @@
+class dog
+
 # bark
 "Woof!"
 
